@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "transparent-proxy": "^1.15.3"
+  }
+}
